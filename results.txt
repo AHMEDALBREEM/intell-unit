@@ -1,0 +1,25 @@
+Coordinate Distance and Information Finder By Unit: miles
+
+--------------------------------------------------
+Coordinates 1 information 
+Location 1: Nina Armando, 25, Martin Place, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Coordinates: (-33.8688, 151.2093)
+Timezone: Australia/Sydney
+Weather: Light rain, 23.68°C
+--------------------------------------------------
+Coordinates 2 information 
+Location 2: New York City Hall, 260, Broadway, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10000, United States
+Coordinates: (40.7128, -74.006)
+Timezone: America/New_York
+Weather: Clear sky, -1.37°C
+--------------------------------------------------
+Geocoding information 
+Distance: 9934.49 miles
+Estimated travel times:
+Walking: 2483.62 hours
+Bicycle: 827.87 hours
+Car: 155.23 hours
+Train: 103.48 hours
+Airplane: 13.8 hours
+--------------------------------------------------
+Enginering process by linkdin. eng. : @ahmedalbreem
